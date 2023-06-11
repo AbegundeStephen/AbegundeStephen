@@ -1,5 +1,5 @@
 Hi, I'm Abegunde Oluwatimilehin Stephen
-I'm a skilled and experienced Fullstack Developer, and the Skill/Stack ( which I am constantly developing and expanding are listed below
+I'm a skilled and experienced Fullstack Developer, and the Skill/Stack (which I am constantly developing and expanding) are listed below
 Express.js
 Node.js
 Typescript
