@@ -6,6 +6,8 @@ Express.js
 
 Node.js
 
+Nest.js
+
 Typescript
 
 React
@@ -13,6 +15,8 @@ React
 Nextjs
 
 MongoDB
+
+AWS
 
 MySQL
 
