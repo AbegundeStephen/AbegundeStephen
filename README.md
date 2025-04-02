@@ -22,6 +22,8 @@ MySQL
 
 Graphql
 
+Rabbitmq
+
 Docker
 
 
