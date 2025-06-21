@@ -24,6 +24,8 @@ Graphql
 
 Rabbitmq
 
+Go
+
 Docker
 
 
