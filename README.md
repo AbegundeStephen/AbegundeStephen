@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Abegunde Oluwatimilehin Stephen
+# Abegunde Oluwatimilehin Stephen
 
 ## 🚀 Full Stack Developer | Building Digital Solutions
 
@@ -65,6 +65,7 @@ I'm a passionate full-stack developer who loves creating scalable web applicatio
 
 - 📧 **Email**: [timilehin18@gmail.com](mailto:timilehin18@gmail.com)
 - 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/abegunde-oluwatimilehin-05b897aa)
+
 
 ---
 
