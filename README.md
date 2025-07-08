@@ -59,7 +59,7 @@ I'm a passionate full-stack developer who loves creating scalable web applicatio
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbegundeStephen&show_icons=true&theme=radical" alt="GitHub Stats(public repo)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbegundeStephen&show_icons=true&theme=radical" alt="GitHub Stats public repo" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbegundeStephen&theme=radical" alt="GitHub Streak" />
 </div>
 
