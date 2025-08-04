@@ -1,5 +1,4 @@
 # Abegunde Oluwatimilehin Stephen
-
 ## 🚀 Full Stack Developer | Building Digital Solutions
 
 I'm a passionate full-stack developer who loves creating scalable web applications and exploring new technologies. Currently focused on building robust backend systems and intuitive user experiences.
@@ -56,19 +55,37 @@ I'm a passionate full-stack developer who loves creating scalable web applicatio
 
 ---
 
-## 📊 GitHub Stats (only public repo)
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbegundeStephen&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbegundeStephen&theme=radical" alt="GitHub Streak" />
+  
+### 🔥 Contribution Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbegundeStephen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF)
+
+### ⚡ Streak Statistics  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbegundeStephen&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
+
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbegundeStephen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbegundeStephen&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)
+
+### 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbegundeStephen&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B)
+
 </div>
 
 ---
 
 ## 🤝 Let's Connect
 
-- 📧 **Email**: [timilehin18@gmail.com](mailto:timilehin18@gmail.com)
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/abegunde-oluwatimilehin-05b897aa)
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timilehin18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abegunde-oluwatimilehin-05b897aa)
+
+</div>
 
 ---
 
@@ -82,13 +99,11 @@ I'm a passionate full-stack developer who loves creating scalable web applicatio
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbegundeStephen&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  
+![Profile Views](https://komarev.com/ghpvc/?username=AbegundeStephen&color=58A6FF&style=for-the-badge&label=Profile+Views)
+
+### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+**⭐ Feel free to explore my repositories and don't forget to star the ones you find interesting!**
+
 </div>
-
-<div align="center">
-  <h3>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
-</div>
-
----
-
-⭐ **Feel free to explore my repositories and don't forget to star the ones you find interesting!**
