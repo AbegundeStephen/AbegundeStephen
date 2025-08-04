@@ -55,7 +55,7 @@ I'm a passionate full-stack developer who loves creating scalable web applicatio
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics (Public Repo)
 
 <div align="center">
   
